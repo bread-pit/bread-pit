@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 <img src="img/github-banner.jpg" />
 
+<br>
+
 <h2>
     <img src="img/bread.svg" alt="bread icon" width="24" height="24" />
     About <span style="color: #7FB277;">Me</span>
@@ -24,6 +26,8 @@ Here are some ideas to get you started:
 <p>I'm a Frontend Developer & UI/UX Designer who enjoys building responsive, user-centered interfaces, while exploring data, backend systems, and a bit of AI along the way.</p>
 <p>Beyond coding, I’m into crochet, gaming, and sculpting. I also love anything related to murder mysteries—books, shows, or podcasts.</p>
 <p>If you’re up for collaborating, creating something meaningful, or just saying hi, feel free to reach out!</p>
+
+<br>
 
 <h2>
     <img src="img/tech.svg" alt="bread icon" width="24" height="24" />
@@ -45,3 +49,6 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-262626?style=for-the-badge&logo=bootstrap&logoColor=EFC49A)
 ![Git](https://img.shields.io/badge/git-262626?style=for-the-badge&logo=git&logoColor=EFC49A)
 ![GitHub](https://img.shields.io/badge/github-262626?style=for-the-badge&logo=github&logoColor=EFC49A)
+
+<br>
+<img src="img/footer.png" />
